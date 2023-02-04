@@ -1,2 +1,4 @@
 # PongInRust
-Pong made in rust! This is my first rust project.
+Pong made in rust! This is my first Rust project.
+
+![Pong](docs/pong.png)
